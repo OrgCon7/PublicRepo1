@@ -1,0 +1,1 @@
+content for newFile1.txt for PublicRepo1
